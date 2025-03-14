@@ -1,0 +1,21 @@
+File,Dependent Variable,R-squared,Adjusted R-squared
+Water_sample_runoff_citrus_Dissolved_Phosphorus.csv,NPK,0.147,-0.016
+Water_sample_runoff_citrus_Dissolved_Phosphorus.csv,PK,0.139,-0.026
+Water_sample_runoff_citrus_Dissolved_Phosphorus.csv,NK,0.112,-0.059
+Water_sample_runoff_citrus_Dissolved_Phosphorus.csv,CK,0.179,0.022
+Water_sample_runoff_citrus_Dissolved_Phosphorus.csv,OF,0.218,0.069
+Water_sample_runoff_corn_Dissolved_Phosphorus.csv,NPK,0.25,0.1
+Water_sample_runoff_corn_Dissolved_Phosphorus.csv,PK,0.205,0.046
+Water_sample_runoff_corn_Dissolved_Phosphorus.csv,NK,0.261,0.113
+Water_sample_runoff_corn_Dissolved_Phosphorus.csv,CK,0.352,0.223
+Water_sample_runoff_corn_Dissolved_Phosphorus.csv,OF,0.215,0.058
+Water_sample_runoff_rice_Dissolved_Phosphorus.csv,NPK,0.277,0.136
+Water_sample_runoff_rice_Dissolved_Phosphorus.csv,PK,0.285,0.145
+Water_sample_runoff_rice_Dissolved_Phosphorus.csv,NK,0.336,0.206
+Water_sample_runoff_rice_Dissolved_Phosphorus.csv,CK,0.232,0.082
+Water_sample_runoff_rice_Dissolved_Phosphorus.csv,OF,0.23,0.079
+Water_sample_runoff_vegetable_Dissolved_Phosphorus.csv,NPK,0.304,0.139
+Water_sample_runoff_vegetable_Dissolved_Phosphorus.csv,PK,0.254,0.078
+Water_sample_runoff_vegetable_Dissolved_Phosphorus.csv,NK,0.534,0.424
+Water_sample_runoff_vegetable_Dissolved_Phosphorus.csv,CK,0.34,0.184
+Water_sample_runoff_vegetable_Dissolved_Phosphorus.csv,OF,0.322,0.161
